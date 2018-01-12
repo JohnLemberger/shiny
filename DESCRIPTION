@@ -65,7 +65,7 @@ Depends:
 Remotes:
     mingwandroid/later,
     rstudio/promises,
-    rstudio/httpuv@background-thread
+    johnlemberger/httpuv@background-thread
 Imports:
     utils,
     grDevices,
